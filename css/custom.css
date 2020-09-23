@@ -271,3 +271,22 @@ figure.effect-roxy:hover p {
 		text-transform: uppercase;
 	}
 }
+
+/*Custom*/
+.custom-team{
+	padding: 0px 30px;
+}
+.custom-team:hover{
+	/*box-shadow: 0px 0px 6px 0px gray;*/
+	box-shadow: 6px 10px 6px -6px gainsboro;
+}
+.custom-team-container{
+	margin-bottom: 120px;
+}
+
+.custom-bank{
+	margin-bottom: 60px;
+}
+.custom-bank p{
+	line-height: 0px;
+}
